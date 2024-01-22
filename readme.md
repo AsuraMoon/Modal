@@ -4,6 +4,10 @@
 
 ## Utilisation
 
+### Imports des dependecies 
+
+`npm i sass` pour le style pré-defini
+
 ### Importation du composant
 
 ```javascript
